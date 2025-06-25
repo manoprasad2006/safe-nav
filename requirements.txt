@@ -1,0 +1,9 @@
+opencv-python 
+pyttsx3 
+matplotlib
+pandas
+requests
+ultralytics
+torch 
+torchvision 
+torchaudio
